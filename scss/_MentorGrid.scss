@@ -1,0 +1,23 @@
+// .overflow-x-scroll
+
+// .overflow-x-hidden-l
+
+.overflow-x-hidden {
+  overflow-x: hidden
+}
+
+.MentorGrid {
+  overflow-x: scroll;
+
+  @media (min-width: 992px) {
+    overflow-x: hidden;
+  }
+}
+
+.MentorGrid__container {
+  width: calc(128px * 6);
+  @media (min-width: 992px) {
+    width: auto;
+  }
+
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tinc-bf",
+  "version": "1.0.0",
+  "description": "tinc with botstrap-four",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraptama/tinc-bf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indraptama/tinc-bf/issues"
+  },
+  "homepage": "https://github.com/indraptama/tinc-bf#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
